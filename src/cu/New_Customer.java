@@ -17,7 +17,6 @@ public class New_Customer extends javax.swing.JFrame {
     }
 
     @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
         jLabel6 = new javax.swing.JLabel();
@@ -282,7 +281,7 @@ public class New_Customer extends javax.swing.JFrame {
 
 
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt){//GEN-FIRST:event_jButton2ActionPerformed 
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed 
             String firstName = jTextField1.getText();
             String lastName = jTextField2.getText();
             String age = jTextField3.getText();

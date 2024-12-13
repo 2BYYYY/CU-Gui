@@ -1,0 +1,4 @@
+"Index","InsuranceID","Name","Age","Driving Experience","Car Model","Car Age","Accident History","Plate Number","Type Of Insurance","Premium Amount"
+"0","357553","Salvador","24","0","Toyota","4","1","BBB2","Partial Coverage","25500"
+"1","357553","Salvador","24","0","Ferrari","2","3","MNM2","Partial Coverage","40500"
+"2","357553","Salvador","24","0","Lambo","3","4","AAV2","Partial Coverage","45000"

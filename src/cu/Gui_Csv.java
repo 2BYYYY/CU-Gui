@@ -17,7 +17,7 @@ abstract class CSVS{
     abstract void registerChange(String A, String B, String C, String D, String E, String F, String G);
 }
 
-public class Gui_Csv {
+public class Gui_Csv extends CSVS{
     public void toApproved(String index, String insuranceID, String PL, String name, String age, String carmodel, String TOI, String pAccount) {
         System.out.println("=====================");
         System.out.println(name + " Approved");
