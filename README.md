@@ -46,3 +46,6 @@ Coverage United is a Java-based application designed to help users determine the
 
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
+## Presentation Link
+
+[Figma Slides Link](https://www.figma.com/community/file/1449364980469971916)
